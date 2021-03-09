@@ -4,13 +4,14 @@ const cors = require('cors');
 const mongoose = require('mongoose');
 const Message = require('./models/message');
 
+const PORT = process.env.PORT || 5000;
 //express app
 const app = express();
 
 //connect to mongodb
 const dbURI = 'mongodb+srv://mystic:mysticadmin@cluster0.n69dk.mongodb.net/personal?retryWrites=true&w=majority';
 mongoose.connect(dbURI, { useNewUrlParser: true, useUnifiedTopology: true })
-  .then((result) => app.listen(5000))
+  .then((result) => app.listen(PORT, console.log(`Server is starting at ${PORT}`)))
   .catch((err) => console.log(err));
 
 app.use(morgan('dev'));
