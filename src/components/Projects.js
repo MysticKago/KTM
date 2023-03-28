@@ -4,6 +4,22 @@ const Projects = () => {
     return ( 
         <Container>
             <Pop>
+                <Video width="400" src="https://www.youtube.com/embed/bM6e1eXWubU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></Video>
+                <Title>FNB Payment Guide DEMO</Title>
+            </Pop>
+            <Pop>
+                <Video width="400" src="https://www.youtube.com/embed/D0fows-HMLk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></Video>
+                <Title>Intro Logo Animation</Title>
+            </Pop>
+            <Pop>
+                <Video width="400" src="https://www.youtube.com/embed/bZP2IqIEVzE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></Video>
+                <Title>Nandos Menu Demo</Title>
+            </Pop>
+            <Pop>
+                <Video width="400" src="https://www.youtube.com/embed/DgYbKWJgX4o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></Video>
+                <Title>Infographics</Title>
+            </Pop>
+            <Pop>
                 <Video width="400" src="https://www.youtube.com/embed/kJfHfZPAe4s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></Video>
                 <Title>3D Rain</Title>
             </Pop>
