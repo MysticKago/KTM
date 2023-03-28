@@ -9,7 +9,7 @@ const Overview = () => {
         <Container>
             <Pop>
                 <Title>PROFILE</Title>
-                <p>A 25 year old software engineer with a passion for developing innovative programs that expedite the efficiency and 
+                <p>A 28 year old software engineer with a passion for developing innovative programs that expedite the efficiency and 
                 effectiveness of organizational success. Well-versed in web technology and writing code to create web 
                 systems that are reliable and user-friendly. Confident communicator, strategic thinker, and innovative 
                 creator to develop webapps that are customized to meet a company’s organizational needs, highlight their 
