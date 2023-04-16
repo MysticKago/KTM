@@ -4,6 +4,10 @@ const Projects = () => {
     return ( 
         <Container>
             <Pop>
+                <Video width="400" src="https://www.youtube.com/embed/4iEnVuJcfSQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></Video>
+                <Title>Risk and Compliance Demo</Title>
+            </Pop>
+            <Pop>
                 <Video width="400" src="https://www.youtube.com/embed/bM6e1eXWubU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></Video>
                 <Title>FNB Payment Guide DEMO</Title>
             </Pop>
