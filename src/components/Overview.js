@@ -154,6 +154,7 @@ const Pop = styled.div`
     border-radius: 10px;
     padding: 0px 15px;
     margin: 10px;
+    width: 100%;
     box-shadow: 0px 3px 15px -8px rgba(0,0,0,0.69);
 
     p {
