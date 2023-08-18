@@ -9,16 +9,11 @@ const Overview = () => {
         <Container>
             <Pop>
                 <Title>PROFILE</Title>
-                <p>A 28 year old software engineer with a passion for developing innovative programs that expedite the efficiency and 
-                effectiveness of organizational success. Well-versed in web technology and writing code to create web 
-                systems that are reliable and user-friendly. Confident communicator, strategic thinker, and innovative 
-                creator to develop webapps that are customized to meet a company’s organizational needs, highlight their 
-                core competencies, and further their success.</p>
-                
-                <p>Skilled and experienced Motion Graphic Designer with experience in creating fun and engaging animated 
-                videos, product introduction, and the overall management of a project's life from conception to fruition. 
-                Experience in assessing customer desires and requirements and generating a product that successfully meets 
-                those standards. Bringing forth the ability to determine product specifications and production timelines.</p>
+                <p>Enthusiastic and innovative 28-year-old software engineer adept at crafting efficient and user-friendly web systems. Proficient 
+                    in web technology and coding to drive organizational success. Accomplished motion graphic designer with a track record of 
+                    producing engaging animated content and managing projects from inception to completion. Effective communicator, strategic 
+                    thinker, and creative problem solver dedicated to tailoring web applications to fulfill specific organizational needs and 
+                    enhance core competencies.</p>
             </Pop>
             <Pop>
                 <Title>EDUCATION</Title>
@@ -26,18 +21,20 @@ const Overview = () => {
                 <p>AUGUST 2015 — DECEMBER 2019 Limkokwing University, Block 7, Gaborone,Botswana</p>
                 
                 <a>Software Engineering with Multimedia</a>
-                <p>Together they make powerful set of skills that goes beyond each indivitual profession which truly represent Information Communication Technologies</p>
+                <p>Together they make powerful set of skills that goes beyond each indivitual profession which truly represent Information Communication Technologies.
+                Developed a powerful skill set encompassing both software engineering and multimedia, representing a holistic approach to Information Communication Technologies.
+                </p>
             </Pop>
             <Pop>
                 <Title>WORK EXPERIENCE</Title>
-                <a>Motion Graphic Designer For FNB Botswana</a>
-                <p>Worked independently and on a team to create animated training videos for employees and explainer videos for their clients on how to use their product the intended way.</p>
+                <a>FNB Botswana - Animated Training Videos:</a>
+                <p>Independently and collaboratively developed animated training videos, enhancing employee onboarding and customer product understanding.</p>
                 
-                <a>Motion Graphic Designer For Limkokwing</a>
-                <p>Created a short Career Fair video for my school, to introduce new students to the courses offered in a fun way.</p>
+                <a>Motion Graphic Limkokwing Career Fair Video:</a>
+                <p>Conceptualized and created a captivating Career Fair video, effectively introducing prospective students to available courses in an engaging manner.</p>
 
-                <a>Animated Music Video</a>
-                <p>Worked on a two men project to create the music video. A lot of work done to the illustrations for different scenes to capture the mood of the song.</p>
+                <a>Animated Music Video:</a>
+                <p>Collaborated on a two-person project to produce an animated music video, demonstrating proficiency in creating mood-capturing illustrations for diverse scenes.</p>
             </Pop>
             <Pop>
                 <Title>SKILLS</Title>
